@@ -1,4 +1,4 @@
-# Stock Market Analysis Project
+ # Stock Market Analysis Project
 
 ## Overview
 This project performs an in-depth analysis of stock market data over the past year using Python, TIDB SQL, Streamlit, Seaborn, and Power BI. It focuses on extracting, transforming, analyzing, and visualizing stock performance to provide meaningful business insights and decision support for investors.
